@@ -1,5 +1,7 @@
 # UTM FSU Biostats
 
+<!-- Files for E-Book Hosted on GitHub Pages. Made using Bookdown in r -->
+
 <p align="center">
   <img style="float:left;height:150px;" src="https://raw.githubusercontent.com/nishanmudalige/UTM_FSU_Biostats/refs/heads/main/Hex%20Stickers/R0_hex_sticker.png">
 </p>
